@@ -8,9 +8,11 @@
 
 - 📫 How to reach me **sushmitasutradhar839@gmail.com**
 
-- ⚡ Fun fact **I am funny**
+- ⚡ Fun Fact: **I also enjoy singing 🎤**
 
-<h3 align="left">Connect with me:</h3>
+- 🎨 Passionate about **UI/UX Design, Responsive Web Design**
+
+
 <p align="left">
 </p>
 
