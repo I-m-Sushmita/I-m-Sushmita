@@ -10,7 +10,7 @@
 
 - ⚡ Fun Fact: **I also enjoy singing 🎤**
 
-- 🎨 Passionate about **UI/UX Design, Responsive Web Design**
+- 🎨 Passionate about ** building responsive, user-friendly websites and crafting beautiful digital experiences.**
 
 
 <p align="left">
