@@ -1,27 +1,88 @@
-![image](https://github.com/I-m-Sushmita/I-m-Sushmita/assets/144529647/614d52d8-e1af-43e1-b946-a951aab4ed07)
 <h1 align="center">Hi 👋, I'm Sushmita Sutradhar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding-gif"width="400"src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=i-m-sushmita&label=Profile%20views&color=0e75b6&style=flat" alt="i-m-sushmita" /> </p>
 
-- 🌱 I’m currently learning **React**
-
-- 📫 How to reach me **sushmitasutradhar839@gmail.com**
-
-- ⚡ Fun Fact: **I also enjoy singing 🎤**
-
-- 🎨 Passionate about ** building responsive, user-friendly websites and crafting beautiful digital experiences.**
-
-
-<p align="left">
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=WordPress+Developer;Frontend+Developer;Building+Responsive+Websites;Always+Learning+New+Things&font=Fira%20Code&center=true&width=500&height=40&color=2BE0D0&vCenter=true&size=22&theme=dark" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img width="100%" src="https://github.com/I-m-Sushmita/I-m-Sushmita/assets/144529647/614d52d8-e1af-43e1-b946-a951aab4ed07">
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=i-m-sushmita&show_icons=true&locale=en&layout=compact" alt="i-m-sushmita" /></p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=i-m-sushmita&label=Profile%20views&color=0e75b6&style=flat" alt="i-m-sushmita" />
+  <img src="https://img.shields.io/github/followers/i-m-sushmita?label=Followers&style=flat&color=0e75b6" alt="GitHub followers" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=i-m-sushmita&show_icons=true&locale=en" alt="i-m-sushmita" /></p>
+<p align="center">
+  <a href="mailto:sushmitasutradhar839@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/sushmita007/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://i-m-sushmita.github.io/My-Portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=i-m-sushmita&" alt="i-m-sushmita" /></p>
+---
 
+### 🚀 About Me
+
+- 💼 **WordPress Developer**
+- 🌱 Currently learning **PHP, Git & Advanced WordPress Development**
+- 📫 Reach me at: **sushmitasutradhar839@gmail.com**
+- 🎤 Fun Fact: I love singing
+- ✨ Passionate about creating responsive websites and user-friendly digital experiences
+
+---
+
+### 🛠️ Skills
+
+<p align="center">
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress"/>
+  <img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white" alt="WooCommerce"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+</p>
+
+---
+
+### 💻 Projects
+
+<table align="center">
+  <tr>
+    <td width="50%">
+      <h4>🏋️ Gym Website</h4>
+      <p>A responsive gym/fitness website built with <b>React</b>, featuring clean UI, membership plans, and trainer/class sections.</p>
+      <a href="https://github.com/I-m-Sushmita/gym-website-react">View Repo</a> | <a href="https://i-m-sushmita.github.io/gym-website-react/">Live Demo</a>
+    </td>
+    <td width="50%">
+      <h4>🎓 Institute Landing Page</h4>
+      <p>A frontend assessment project — a responsive landing page for an educational institute, built as part of a job interview task.</p>
+      <a href="https://github.com/I-m-Sushmita/Frontend-Assignment">View Repo</a> | <a href="https://i-m-sushmita.github.io/Frontend-Assignment/">Live Demo</a>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=i-m-sushmita&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="github stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=i-m-sushmita&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=i-m-sushmita&theme=tokyonight&hide_border=true" alt="streak stats" />
+</p>
+
+---
+
+<p align="center">Thanks for visiting my profile! 🌟</p>
